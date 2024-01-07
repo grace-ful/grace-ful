@@ -1,6 +1,8 @@
-### Hi, I'm Grace!
+## Hi, I'm Grace!
 
-I'm a 4th year Computer Science student at the University of Waterloo. I code gracefully - this is where you'll find my personal projects. Have a look around!
+I'm a 4th year Computer Science student at the University of Waterloo. I'm pursuing a specialization in Human-Computer Interaction and a diploma in Creative Writing.
+
+I code gracefully - this is where you'll find my personal projects. Have a look around!
 
 
 
