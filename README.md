@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Grace!
+
+I'm a 4th year Computer Science student at the University of Waterloo. I code gracefully - this is where you'll find my personal projects. Have a look around!
+
+
 
 <!--
 **grace-ful/grace-ful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
